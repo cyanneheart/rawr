@@ -1,0 +1,18 @@
+[
+  { "id": 1, "image": "https://bitress.xyz/img/1.jpg" },
+  { "id": 2, "image": "https://bitress.xyz/img/2.jpg" },
+  { "id": 3, "image": "https://bitress.xyz/img/3-Story Building-LHS.jpg" },
+  { "id": 4, "image": "https://bitress.xyz/img/7-Story Building.jpg" },
+  { "id": 5, "image": "https://bitress.xyz/img/book.jpg" },
+  { "id": 6, "image": "https://bitress.xyz/img/com.jpg" },
+  { "id": 7, "image": "https://bitress.xyz/img/gate.jpg" },
+  { "id": 8, "image": "https://bitress.xyz/img/gate.png" },
+  { "id": 9, "image": "https://bitress.xyz/img/ispsc.jpg" },
+  { "id": 10, "image": "https://bitress.xyz/img/ispsc_logo.png" },
+  { "id": 11, "image": "https://bitress.xyz/img/lib.jpg" },
+  { "id": 12, "image": "https://bitress.xyz/img/library.jpg" },
+  { "id": 13, "image": "https://bitress.xyz/img/slide1.png" },
+  { "id": 14, "image": "https://bitress.xyz/img/slide2.png" },
+  { "id": 15, "image": "https://bitress.xyz/img/slide3.png" },
+  { "id": 16, "image": "https://bitress.xyz/img/stud.jpg" }
+]
